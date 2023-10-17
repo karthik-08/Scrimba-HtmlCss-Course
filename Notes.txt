@@ -1,0 +1,7 @@
+Excercise -1 
+learnt about heading tags <h1>,<h2> tags
+
+
+Excercise -2 
+learnt about <p> tag used for writing paragraphs in html pages.
+used <h3> heading tag for the content below the <h1> tag.
