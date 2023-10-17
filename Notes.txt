@@ -5,3 +5,11 @@ learnt about heading tags <h1>,<h2> tags
 Excercise -2 
 learnt about <p> tag used for writing paragraphs in html pages.
 used <h3> heading tag for the content below the <h1> tag.
+
+********* Excercise 3 : about images ************
+
+→ <img> tag it has no closing tag which is used to embed images in the HTML page.
+
+→ use src=”” attribute to specify the path of image we can also the https img address in this value 
+
+→ Use a hack width=”100%” attribute This actually helps in taking full width available in the remaining screen. It also scales according the screen size.
